@@ -85,7 +85,6 @@ int main()
 				double mom2=kthSmallest(a,0,l-1,l/2+1);
 				double ans=(mom1+mom2)/2;
 				cout << ans << endl;
-			//	cout << mom1 << " "<<mom2 << endl;
 			}
 		}
 	}
